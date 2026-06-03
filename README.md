@@ -11,14 +11,14 @@ This portfolio showcases scripts created to address critical infrastructure and 
 ### BATS Scripts - JVM Instrumentation & Diagnostics
 Dynamic Java Agent attachment and diagnostic utilities built to support the migration from Java Accessibility Bridge to Java Agent approach.
 
-- **[check-game-java.bat](./bats-scripts/check-game-java/)** - Comprehensive JVM diagnostics and system inspection
-- **[jlink.bat](./bats-scripts/jlink/)** - Custom JRE generation with required modules for Java Agent support
-- **[attach.bat](./bats-scripts/attach/)** - Dynamic Java Agent attachment to running JVM instances
+- **[check-game-java.bat](./bats/check-game-java/)** - Comprehensive JVM diagnostics and system inspection
+- **[jlink.bat](./bats/jlink/)** - Custom JRE generation with required modules for Java Agent support
+- **[attach.bat](./bats/attach/)** - Dynamic Java Agent attachment to running JVM instances
 
 ### Python Scripts - Data Collection & Resilience
 Web scraping utilities demonstrating throttling, error recovery, and resilient data collection patterns.
 
-- **[portrait_scrape.py](./python-scripts/portrait_scrape/)** - Resilient web scraper with rate limiting and fault tolerance
+- **[portrait_scrape.py](./python/portrait_scrape/)** - Resilient web scraper with rate limiting and fault tolerance
 
 ---
 
